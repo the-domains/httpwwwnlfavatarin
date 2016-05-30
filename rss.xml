@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[http://www.nlfavatar.in/]]></title>
+        <description><![CDATA[http://www.nlfavatar.in/]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 May 2016 10:57:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Events]]></title>
+            <description><![CDATA[<article><h1>Events</h1><p>2015 Events at Avatar. Page updated every month.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc655cd2a0e63d5bb63db7845b4ce5af7a19f531.jpg"></article>]]></description>
+            <link>http://www.nlfavatar.in/events/</link>
+            <guid isPermaLink="false">595e38de-8cfd-49d8-aedb-69f624b83c40</guid>
+            <pubDate>Mon, 30 May 2016 10:57:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
